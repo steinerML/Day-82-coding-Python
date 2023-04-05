@@ -1,0 +1,10 @@
+
+This is my first appending exercise.
+This is my second appending exercise.
+This is my third appending exercise.
+This is my fourth appending exercise.
+This is my first appending exercise.
+This is my second appending exercise.
+This is my third appending exercise.
+This is my fourth appending exercise.
+This erases everything.
